@@ -1,0 +1,1 @@
+﻿nếu login = 0 thì index còn login =1 thì admin
